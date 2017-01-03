@@ -3,7 +3,7 @@
 <head>
 <title>Itemization and Decision Making</title>
 </head>
-<body background="team_graves_2.jpg">
+<body background="http://na.leagueoflegends.com/sites/default/files/upload/art/team_graves_2.jpg">
 
 <h1 style="color:brown;">Items</h1>
 
