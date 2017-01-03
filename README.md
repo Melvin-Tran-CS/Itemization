@@ -1,8 +1,18 @@
 <DOCTYPE html>
 <html>
 <head>
-<title>Itemization and Decision Making</title>
+<style>
+div {
+    border: 1px solid black;
+    background-color: darkred;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+</style
 </head>
+<title>Itemization and Decision Making</title>
 <body background="https://s-media-cache-ak0.pinimg.com/originals/d9/0d/05/d90d054b91ffc686e6c659a0c415e9dd.jpg">
 
 <h1 style="color:blue;">Items</h1>
