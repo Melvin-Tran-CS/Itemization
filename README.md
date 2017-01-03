@@ -9,7 +9,7 @@
 
 <table>
  <tr>
-   <td><iframe width="640" height="360" src="https://www.youtube.com/embed/0HGU77c2HIE" frameborder="0" allowfullscreen></iframe><p style="color;Blue">Items can be difficult to choose,especially when you cant always test different builds and so this section will help you learn how to choose your items carefully,and efficiently.</p></td>
+   <td><iframe width="640" height="360" src="https://www.youtube.com/embed/0HGU77c2HIE" frameborder="0" allowfullscreen></iframe><p style="color;Blue"><sub>Items can be difficult to choose,especially when you cant always test different builds and so this section will help you learn how to choose your items carefully,and efficiently.</sub></p></td>
   </tr>
   <tr>
     <td></td>
