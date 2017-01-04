@@ -37,10 +37,8 @@ div2 {
   <td><h3 style="color:black;">Thinking ahead</h3><br>
   <p style="color:black;">If you want to take the early game item stage to the next level then I suggest taking a specific set of starting items when you begin the lane phase.For an example on Ekko I sometimes start with the normal doran ring and two potions,however after the first back if I have atleast 850 gold I buy corrupting potion and a dark seal.This is when I am snowballing the lane phase and utterly destroying my opponent.</p>
  </td> 
- <td><h2>
- 
- 
- 
+ <td><h2>Mid Game</h2><br>
+ <p style="color:black;">In mid game you should have atleast your first item and sub items for your second item.Depending on how well you did in lane,you might have your second and maybe even third item.In mid game,your options expand,and your choices become much more impactful.The possibilities of different items become larger as well.So how do you decide on what to build mid game and what do you think about after getting these items?Here you need to consider three things.One,are you behind or ahead.If you are behind you should consider your options more carefully and if you are ahead you should consider items that will help you end the game faster or help you snowball.Two,If you are required to solo carry or can work together with your team.In my long experience with playing solo queue,I have learned that you cannot always rely on your team at all to win.Sometimes you must solo carry your games to victory so I would only build items that I needed to win fights and not team oriented items such as locket of the iron solari or frozen heart.And three,you need to consider the state of the game.Sometimes if you are losing very hard early it might force your team to play very safe or force you to fight often and that leads to a question of what to build.Say you are playing support nami and your adc ezreal is getting dominated by the enemy jhin and brand.Your top lane darius is losing against a box box level riven player,and your jungle vi is getting invaded hard by lee sin,forcing her to farm more.However,your casseopeia just comletely stomped their zed and she took down both outer and inner mid lane turret.So you must think whether you should build frozen heart to combat their team or build zekes so that ezreal can atleast do a bit of damage in the fights.</p>
  </td>
   </tr>
   <tr>
