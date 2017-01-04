@@ -4,7 +4,7 @@
 <style>
 div {
     border: 1px solid black;
-    background-color: darkred;
+    background-color: darkgreen;
     padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
@@ -19,7 +19,7 @@ div {
 
 <table>
  <tr>
-   <td><iframe width="640" height="360" src="https://www.youtube.com/embed/0HGU77c2HIE" frameborder="0" allowfullscreen></iframe> <p style="color:blue;">Items can be difficult to choose,especially when you cant always test different builds and so this section will help you learn how to choose your items carefully,and efficiently.</p> </td>
+   <td><iframe width="640" height="360" src="https://www.youtube.com/embed/0HGU77c2HIE" frameborder="0" allowfullscreen></iframe> <p style="color:red;">Items can be difficult to choose,especially when you cant always test different builds and so this section will help you learn how to choose your items carefully,and efficiently.</p> </td>
   </tr>
   <tr>
     <td></td>
