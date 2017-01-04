@@ -20,7 +20,7 @@ div2 {
 }
 </style
 </head>
-<div2><b>Itemization and decision making</b></div2>
+<div2><h1><b>Itemization and decision making</b></h1></div2>
 <body background="https://s-media-cache-ak0.pinimg.com/originals/d9/0d/05/d90d054b91ffc686e6c659a0c415e9dd.jpg">
 
 
