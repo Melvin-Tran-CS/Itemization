@@ -10,9 +10,17 @@ div {
     padding-bottom: 50px;
     padding-left: 80px;
 }
+div2 {
+ border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: lightblue;
+}
 </style
 </head>
-<title>Itemization and Decision Making</title>
+<div2>Itemization and Decision Making</div2>
 <body background="https://s-media-cache-ak0.pinimg.com/originals/d9/0d/05/d90d054b91ffc686e6c659a0c415e9dd.jpg">
 
 <h1 style="color:blue;"><b>Items and Decision Making</b></h1>
