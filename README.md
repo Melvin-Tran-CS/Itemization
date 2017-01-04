@@ -10,17 +10,11 @@ div {
     padding-bottom: 50px;
     padding-left: 80px;
 }
-div2 {
- border: 1px solid black;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
-    background-color: lightblue;
-}
+
+
 </style
 </head>
-<div2><h1><b>Itemization and decision making</b></h1></div2>
+<h1><b>Itemization and decision making</b></h1>
 <body background="https://s-media-cache-ak0.pinimg.com/originals/d9/0d/05/d90d054b91ffc686e6c659a0c415e9dd.jpg">
 
 
@@ -53,7 +47,7 @@ div2 {
   </tr>
   <tr>
   <td><h2 style="color:black;">Decision making</h2>
-  
+  <p style="color:black;">Learning how to improve decision making is alot like learning how to become a master chef.In league of legends,a vast majority of people do not konw the importance of decision making as it can affect the outcomes of your games greatly.In higher elos,sometimes the difference between a win and loss is which mid lane takes first blood,or which lane the jungler ganks first.In order for you to improve on your decision making you have to think about it like cooking.If your first dishes were bad,ask the people who ate them why and how does it taste bad.The same thing applies for league when you lose.You might not have people that tell you what you did wrong or how it was wrong,but if you keep track of every time you THINK you mess up and put every single action into account,yes every single mess up no matter how small it was,then you should be able to eventually improve even if it is just a little bit.</p>
   </td>
   </tr>
 </table>
