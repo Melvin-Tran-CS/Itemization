@@ -40,10 +40,21 @@ div2 {
  <td></td>
   </tr>
   <tr>
-    <td><h2>Mid Game</h2><br>
+  <td><h2 style="color:black;">Mid Game</h2>
  <p style="color:black;">In mid game you should have atleast your first item and sub items for your second item.Depending on how well you did in lane,you might have your second and maybe even third item.In mid game,your options expand,and your choices become much more impactful.The possibilities of different items become larger as well.So how do you decide on what to build mid game and what do you think about after getting these items?Here you need to consider three things.One,are you behind or ahead.If you are behind you should consider your options more carefully and if you are ahead you should consider items that will help you end the game faster or help you snowball.Two,If you are required to solo carry or can work together with your team.In my long experience with playing solo queue,I have learned that you cannot always rely on your team at all to win.Sometimes you must solo carry your games to victory so I would only build items that I needed to win fights and not team oriented items such as locket of the iron solari or frozen heart.And three,you need to consider the state of the game.Sometimes if you are losing very hard early it might force your team to play very safe or force you to fight often and that leads to a question of what to build.Say you are playing support nami and your adc ezreal is getting dominated by the enemy jhin and brand.Your top lane darius is losing against a box box level riven player,and your jungle vi is getting invaded hard by lee sin,forcing her to farm more.However,your casseopeia just comletely stomped their zed and she took down both outer and inner mid lane turret.So you must think whether you should build frozen heart to combat their team or build zekes so that ezreal can atleast do a bit of damage in the fights.</p></td>
     <td></td> 
     <td></td>
+  </tr>
+  <tr>
+  <td><h2 style="color:black;">Late Game</h2>
+  <p style="color:black;">In late game you should be close to full build or are full build.There is not that much to say about late game since all there is to it is simply adapting to what state you are in late game and what threats are there and what can you build to counter those threats.One thing you should do is,that you swap out items that provide less that you still have with items of more value.
+  Another trick with late game is that depending on what champion you are playing,you can swap out items for underused or underpurchased items and surprise your opponents with it.Say you are playing nasus and your team has just barely won a teamfight and you and their caitlyn is left.You are very low on hp and she is full.You check that your tp is up and back to base.Quickly,you swap out two of your tank items with ohmwrecker and rightous glory.You tp to a ward and run into their base with homeguards and keep walking through the nexus tower and pop ohmwrecker to disable the tower and activate rightous glory to catch up to caitlyn and one shot her.Your minion wave comes up and you quickly kill the tower and end the game.</p>
+  </td>
+  </tr>
+  <tr>
+  <td><h2 style="color:black;">Decision making</h2>
+  
+  </td>
   </tr>
 </table>
 
