@@ -19,7 +19,7 @@ div {
 
 <table>
  <tr>
-   <td><iframe width="640" height="360" src="https://www.youtube.com/embed/0HGU77c2HIE" frameborder="0" allowfullscreen></iframe> <p style="color:black;">Items can be difficult to choose,especially when you cant always test different builds and so this section will help you learn how to choose your items carefully,and efficiently.</p> </td>
+   <td><br><iframe width="640" height="360" src="https://www.youtube.com/embed/0HGU77c2HIE" frameborder="0" allowfullscreen></iframe> <p style="color:black;">Items can be difficult to choose,especially when you cant always test different builds and so this section will help you learn how to choose your items carefully,and efficiently.</p> </td>
   </tr>
   <tr>
   <td><h2 style="color:black;">Early game</h2><br>
