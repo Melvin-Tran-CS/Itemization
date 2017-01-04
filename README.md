@@ -19,7 +19,7 @@ div {
 
 <table>
  <tr>
-   <td><iframe width="640" height="360" src="https://www.youtube.com/embed/0HGU77c2HIE" frameborder="0" allowfullscreen></iframe> <p style="color:red;">Items can be difficult to choose,especially when you cant always test different builds and so this section will help you learn how to choose your items carefully,and efficiently.</p> </td>
+   <td><iframe width="640" height="360" src="https://www.youtube.com/embed/0HGU77c2HIE" frameborder="0" allowfullscreen></iframe> <p style="color:black;">Items can be difficult to choose,especially when you cant always test different builds and so this section will help you learn how to choose your items carefully,and efficiently.</p> </td>
   </tr>
   <tr>
   <td><h2 style="color:black;">Early game</h2><br>
@@ -27,7 +27,7 @@ div {
   Well first off you must consider your lane opponent's strengths and weaknesses and how well you can far in lane.Second,you must think of what options do you have in your build that can allow you to financially able to get x amount of items in x amount of time.Finally,you must consider your team's strengths and weaknesses.If you can fufill all of these tips then please move on to the next paragraph.</p>
   </td>
   <td><h3 style="color:black;">Thinking ahead</h3><br>
-  <p>If you want to take the early game item stage to the next level then I suggest taking a specific set of starting items when you begin the lane phase.For an example on Ekko I sometimes start with the normal doran ring and two potions,however after the first back if I have atleast 850 gold I buy corrupting potion and a dark seal.This is when I am snowballing the lane phase and utterly destroying my opponent.</p>
+  <p style="color:black;">If you want to take the early game item stage to the next level then I suggest taking a specific set of starting items when you begin the lane phase.For an example on Ekko I sometimes start with the normal doran ring and two potions,however after the first back if I have atleast 850 gold I buy corrupting potion and a dark seal.This is when I am snowballing the lane phase and utterly destroying my opponent.</p>
  </td> 
  <td><h2>
  
