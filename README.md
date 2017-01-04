@@ -31,7 +31,7 @@ div2 {
   </tr>
   <tr>
   <td><h2 style="color:black;">Early game</h2><br>
-  <p>In early game,you only start with 500 gold,and once you get into that lane phase,you occasionally have around 1000-1500 gold when you have your first back.So the question is,how do you decide what items to start and what sub-items do you get when you first back?
+  <p style="color:black;">In early game,you only start with 500 gold,and once you get into that lane phase,you occasionally have around 1000-1500 gold when you have your first back.So the question is,how do you decide what items to start and what sub-items do you get when you first back?
   Well first off you must consider your lane opponent's strengths and weaknesses and how well you can far in lane.Second,you must think of what options do you have in your build that can allow you to financially able to get x amount of items in x amount of time.Finally,you must consider your team's strengths and weaknesses.If you can fufill all of these tips then please move on to the next paragraph.</p>
   </td>
   <td><h3 style="color:black;">Thinking ahead</h3><br>
