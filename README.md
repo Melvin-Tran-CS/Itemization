@@ -20,10 +20,10 @@ div2 {
 }
 </style
 </head>
-<title>Itemization and Decision Making</title>
+<title><b>Itemization and Decision Making</b></title>
 <body background="https://s-media-cache-ak0.pinimg.com/originals/d9/0d/05/d90d054b91ffc686e6c659a0c415e9dd.jpg">
 
-<h1 style="color:blue;"><b>Items and Decision Making</b></h1>
+
 
 <table>
  <tr>
